@@ -7,3 +7,4 @@
 - [Data Manipulation and Visualization](../roadmap/files/data.md)
 - [Comprehensions & Generators](../roadmap/files/data.md)
 - [Cryptography and Tokens](../roadmap/files/hashing.md)
+- [Testing and Debugging]()
