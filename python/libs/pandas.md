@@ -1,4 +1,4 @@
-# 🐼 Pandas 101 — Beginner to Intermediate Tutorial
+# 🐼 Pandas
 
 This guide will walk you through the essentials of using **Pandas**, the most popular data analysis library in Python — and take it a step further with more powerful filtering and CRUD-style operations.
 
